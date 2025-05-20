@@ -8,7 +8,7 @@ I’m a passionate B.Tech Computer Science student learning web development and 
 
 ## 🔭 Projects I’m Working On:
 - My personal portfolio website  
-- Mini projects using HTML & CSS
+- Mini projects using HTML, CSS & JAVASCRIPT
 
 ## 📫 How to reach me:
 - Email: pripriya7915@.com
