@@ -11,7 +11,7 @@ I’m a passionate B.Tech Computer Science student learning web development and 
 - Mini projects using HTML, CSS & JAVASCRIPT
 
 ## 📫 How to reach me:
-- Email: pripriya7915@.com
+- Email: pripriya7915@gmail.com
 - GitHub: [prriya-cse](https://github.com/prriya-cse)
 
 ## 💡 Goals:
